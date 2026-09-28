@@ -1,7 +1,5 @@
 Rune Respen (22)
 rune.respen@student.ap.be
-<<<<<<< HEAD
 Student Cyber Security
-=======
 AP Hogeschool
->>>>>>> cdd4ee0d75dd053323fc5263a7aa443634282f78
+
